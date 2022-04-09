@@ -46,7 +46,7 @@ public class Reg_Page {
 		 public void select_gender() throws InterruptedException {
 		  System.out.println("Selecting gender");
 		  Select_gender.click();
-		  Thread.sleep(4000);
+		 
 		 }
 
 			
